@@ -38,3 +38,69 @@
 
 ## Exercise
 * https://www.qwiklabs.com/catalog?keywords=machine+learning
+
+
+
+
+
+
+- Experimentation
+- Versioning
+- Deploy models
+
+Estos son los servicion que tenian
+- AI platform Training
+- AI Platform Predictions
+- AutoML Tables
+- AutoML Vision
+- AutoML Video Intelignet
+- AutoML Natural Language
+- Explainable AI
+- Data Labeling
+
+Estos son los que se agregan con Vertex AI
+- Vertex experiments (traking Models to analize and discover model for model selection )
+- Vertex Vizier (hyper parameter optimization)
+- Vertex Pipeline (run ml pipeline)
+
+MLOps
+1.- Define and upload a dataset
+2.- train a ML model on the data
+  - AutoML
+  - Custom training
+3. model evaluation and HP tuning
+4. Data Labeling jobs
+5. upload and store models
+6. deploy models and get un endpoint 
+7 send prediction request
+8. Set prediction traffic splitting
+9. manage model and endpoints
+
+Interact with Vertex
+- notebook 
+- google cloud console
+- cloud cliente libraryes
+- google api cliente loibraries
+- rest api
+
+https://www.youtube.com/watch?v=ZjtQsYFy_28
+https://cloud.google.com/vertex-ai#section-1
+
+
+https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#1
+
+Building trusted AI products
+https://youtu.be/EUhjkdoHy-M
+https://codelabs.developers.google.com/codelabs/pair-guidebook?utm_source=google-io21&utm_medium=referral&utm_campaign=io21-resources#0
+https://pair-code.github.io/lit/demos/glue.html
+
+https://cloud.google.com/architecture/best-practices-for-ml-performance-cost
+
+
+https://databand.ai/blog/everyday-data-engineering-tips-on-developing-production-pipelines-in-airflow/
+https://github.com/puckel/docker-airflow
+https://airflow.apache.org/docs/apache-airflow/stable/start/local.html#
+
+https://github.com/GoogleCloudPlatform/ci-cd-for-data-processing-workflow
+https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358
+https://www.springml.com/blog/developing-continuous-integration-for-google-cloud-composer/
